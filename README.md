@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abz8976
+- 👋 Hi, I’m Md Shoaib Alam
 - 👀 I’m interested in coding and developing
 - 🌱 I’m currently learning java and sql
 - 💞️ I’m looking to collaborate on 
