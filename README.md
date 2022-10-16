@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abz8976&label=Profile%20views&color=0e75b6&style=flat" alt="abz8976" /> </p>
 
-- 🔭 I’m currently working on every technology related to java [Banking-System using Java(Console Project)](https://github.com/Abz8976/Banking-System-using-java-)
-
 - 🌱 I’m currently learning **Spring framework ,Java FullStack Developement.**
 
 - 💬 Ask me about **Core java, Jdbc and Mysql.**
