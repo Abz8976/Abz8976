@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring framework ,Java FullStack Developement.**
 
-- 💬 Ask me about **Core java, Jdbc and Mysql.**
+- 💬 Ask me about **Core java,JSP,Servlet,Jdbc  Mysql.**
 
 - 📫 How to reach me **alamshoaib479@gmail.com**
 
